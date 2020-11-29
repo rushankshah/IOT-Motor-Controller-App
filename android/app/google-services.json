@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386088087188",
+    "firebase_url": "https://iot-motor-controller.firebaseio.com",
+    "project_id": "iot-motor-controller",
+    "storage_bucket": "iot-motor-controller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386088087188:android:0ecae989af99a124944e81",
+        "android_client_info": {
+          "package_name": "com.iot_motor_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386088087188-hfuklqb4k5em12b11ltts2p4sk3lfbhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iot_motor_controller",
+            "certificate_hash": "fdffc66a29c6c0d0bae58c895e7e8c9d98ea9e83"
+          }
+        },
+        {
+          "client_id": "386088087188-s5vqkqgpg6mqt7urh76mqbvvbki59j50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6SLOMULCzsC4r1fYsyaJXwk-YE1T1Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386088087188-s5vqkqgpg6mqt7urh76mqbvvbki59j50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
